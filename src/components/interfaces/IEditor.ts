@@ -1,0 +1,1 @@
+export default interface IEditor { input: React.Ref<unknown> }
